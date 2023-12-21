@@ -1,6 +1,21 @@
-### Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Kairon Willyan and my nickname is "KaironWillyan"!
 
-<!--
+- 🔭 I’m currently working on news projects...
+- 🌱 I’m currently learning BPMN...
+- 💬 Ask me about anything..
+- 📫 How to reach me: <a>willyankairon1@gmail.com</a> or +55 (86)994401531...
+- ⚡ Fun fact: I like anime and games...
+
+<div>
+<a href="https://github.com/KaironWillyan">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaironWillyan&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=KaironWillyan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+![Snake animation](https://github.com/KaironWillyan/KaironWillyan/blob/output/github-contribution-grid-snake.svg)
+
+<!--### Hi there 👋
 **KaironWillyan/KaironWillyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
