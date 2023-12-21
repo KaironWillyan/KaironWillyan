@@ -1,4 +1,12 @@
 # 👋 Hello! Welcome to my Github profile.
+## Contatos:
+
+<div>
+<a href="https://instagram.com/kairon_willyan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:willyankairon1@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kairon-willyan-ribeiro-de-melo-91886a1b2" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 ## My name is Kairon Willyan and my nickname is "KaironWillyan"!
 
 - 🔭 I’m currently working on news projects...
