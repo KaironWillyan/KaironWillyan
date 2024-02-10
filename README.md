@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/kairon-willyan-ribeiro-de-melo-91886a1b2" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## My name is Kairon Willyan and my nickname is "KaironWillyan"!
+## My name is Kairon Willyan
 
 - 🔭 I’m currently working on news projects...
 - 🌱 I’m currently learning BPMN...
